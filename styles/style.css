@@ -1,0 +1,11 @@
+.carousel-inner{
+width: 100%;
+object-fit: cover;
+max-height: 1000px ;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    padding: 1vh;
+}
