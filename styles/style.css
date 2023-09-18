@@ -8,4 +8,5 @@ max-height: 1000px ;
     display: flex;
     justify-content: space-between;
     padding: 1vh;
-}
+    height: fit-content;
+}  
